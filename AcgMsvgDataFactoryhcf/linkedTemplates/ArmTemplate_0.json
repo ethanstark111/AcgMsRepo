@@ -177,6 +177,7 @@
 				"activities": [
 					{
 						"name": "copy_data_from_raw_to_output",
+						"description": "Hello World",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
